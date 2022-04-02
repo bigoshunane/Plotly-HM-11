@@ -12,7 +12,7 @@ Final dashboard hosted on GitHub page can be found at this[link]()
      . D3.js
      . JavaScript
      . Plot.ly
-# Steps:
+# Steps and results:
 1. Drop down and demographics panel:
 
 The first step is adding all the IDs to the “Test Subject ID No” dropdown so that the user can select which ID they would like to look at and so we can use that ID to parse out the information required from our data json file. Then ID is used to filter out the metadata pertaining to the selected ID and stored as an object. D3 is used to select the panel-body class in index.html forEach statement to iterate through the object and append the data to the demographics panel.
