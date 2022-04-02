@@ -28,7 +28,7 @@ To create the horizontal chart, the JSON data is first filtered by the current I
 
 ![fff](https://user-images.githubusercontent.com/84547558/161367990-5d44d1f6-f979-4b35-8990-9dd7e20ab34f.png)
 
-3.Gauge chart(Bonus): 
+3. Gauge chart(Bonus): 
 
 
 ![GG](https://user-images.githubusercontent.com/84547558/161368230-2d25e772-bef2-44ee-a125-c3c1fa76ab2a.png)
