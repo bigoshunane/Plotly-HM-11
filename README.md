@@ -24,7 +24,7 @@ The first step is adding all the IDs to the “Test Subject ID No” dropdown so
 
 2. Horizontal bar chart and Bubble Chart: 
 
-To create the horizontal chart, the JSON data is first filtered by the current ID then a trace is created for the chart with the top 10 sample values as x and the OTU IDs as the y. Finaly Plotly is used to create the bar chart. The same prodedures used to create the bubble chart.
+To create the horizontal chart, the JSON data is first filtered by the current ID then a trace is created for the chart with the top 10 sample values as x and the OTU IDs as y. Finaly Plotly is used to create the bar chart. The same prodedures used to create the bubble chart.
 
 ![f](https://user-images.githubusercontent.com/84547558/161367958-7fdf4465-edd2-4e7f-908f-829795afe5fa.png)
 
