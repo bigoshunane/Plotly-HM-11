@@ -1,4 +1,4 @@
-# Plotly-Belly Button Biodiversity
+# Belly Button Biodiversity
 
 ## Project background and Objective:
 
