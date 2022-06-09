@@ -8,7 +8,6 @@ Final dashboard hosted on GitHub page can be found at this [link](https://bigosh
 
 ![dbb](https://user-images.githubusercontent.com/84547558/161369440-2b858228-91d2-481e-94bf-b1e2ea3d0d00.png)
 
-
 ## Technologies used
   -  HTML5
   -  Bootstrap 3.3.7
